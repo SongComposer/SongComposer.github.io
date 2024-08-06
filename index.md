@@ -26,7 +26,7 @@
 
 ## Melody-to-Lyric
 
-**Given Melody :** <audio controls style="width: 30%;"><source src="resources/showcase/m2l_melody.mp3" type="audio/wav">Your browser does not support the audio element.</audio>
+**Given Melody :** <audio controls style="width: 30%;"><source src="resources/showcase/m2l_melody.wav" type="audio/wav">Your browser does not support the audio element.</audio>
 
 
 **SongMass :** <audio controls style="width: 30%;"><source src="resources/showcase/m2l_songmass.wav" type="audio/wav">Your browser does not support the audio element.</audio>
