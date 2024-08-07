@@ -22,7 +22,7 @@
 **SongMass :** <audio controls style="width: 30%;"><source src="resources/showcase/l2m_songmass.wav" type="audio/wav">Your browser does not support the audio element.</audio>
 
 
-**SongComposer :** <audio controls style="width: 30%;"><source src="resources/showcase/l2m_songcomposer.wav" type="audio/wav">Your browser does not support the audio element.</audio>
+**SongComposer (ours):** <audio controls style="width: 30%;"><source src="resources/showcase/l2m_songcomposer.wav" type="audio/wav">Your browser does not support the audio element.</audio>
 
 ## Melody-to-Lyric
 
@@ -38,7 +38,7 @@
     other guys seem to get enough of your life 
     but then you find the words
 
-**SongComposer :** <audio controls style="width: 30%;"><source src="resources/showcase/m2l_songcomposer.wav" type="audio/wav">Your browser does not support the audio element.</audio>
+**SongComposer (ours):** <audio controls style="width: 30%;"><source src="resources/showcase/m2l_songcomposer.wav" type="audio/wav">Your browser does not support the audio element.</audio>
 
 
 **Lyrics :** 
